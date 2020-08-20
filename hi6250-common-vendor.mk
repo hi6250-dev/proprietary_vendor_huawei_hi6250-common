@@ -1934,6 +1934,4 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hi6250-common/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so
 
 PRODUCT_PACKAGES += \
-    HotwordEnrollmentOKGoogleHI6403 \
-    HotwordEnrollmentXGoogleHI6403 \
     chargeonlymode
